@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="title_activity_settings">Configurações</string>
+    <string name="title_activity_map">Localização no Mapa</string>
+    <string name="title_activity_share">Compartilhar</string>
+
+    <string name="pref_localizacao_key" translatable="false">localizacao</string>
+    <string name="pref_localizacao_label" >Localização</string>
+    <string name="pref_localizacao_default_value" translatable="false">Campinas</string>
+
+    <string name="pref_unidade_temperatura_key" translatable="false">unidade</string>
+    <string name="pref_unidade_temperatura_label" >Unidade de Temperatura</string>
+    <string name="pref_unidade_temperatura_default_value" translatable="false">metric</string>
+    <!-- Label for metric option in temperature unit preference [CHAR LIMIT=25] -->
+    <string name="pref_unidade_temperatura_metrico_label">Métrico</string>
+    <!-- Label for imperial option in temperature unit preference [CHAR LIMIT=25] -->
+    <string name="pref_unidade_temperatura_imperial_label">Imperial</string>
+    <!-- Value in SharedPreferences for metric temperature unit option [CHAR LIMIT=NONE] -->
+    <string name="pref_unidade_temperatura_metrico_value" translatable="false">metric</string>
+    <!-- Value in SharedPreferences for imperial temperature unit option [CHAR LIMIT=NONE] -->
+    <string name="pref_unidade_temperatura_imperial_value" translatable="false">imperial</string>
+
+</resources>

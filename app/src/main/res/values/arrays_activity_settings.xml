@@ -1,0 +1,12 @@
+<resources>
+
+    <string-array name="pref_unidade_temperatura_options">
+        <item>@string/pref_unidade_temperatura_metrico_label</item>
+        <item>@string/pref_unidade_temperatura_imperial_label</item>
+    </string-array>
+    <string-array name="pref_unidade_temperatura_values">
+        <item>@string/pref_unidade_temperatura_metrico_value</item>
+        <item>@string/pref_unidade_temperatura_imperial_value</item>
+    </string-array>
+
+</resources>

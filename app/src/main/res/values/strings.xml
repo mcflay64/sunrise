@@ -2,8 +2,6 @@
 <resources>
 
     <string name="app_name">Sunrise</string>
-    <string name="hello_world">Hello Tom!</string>
-    <string name="action_settings">Configurações</string>
     <string name="action_refresh">Atualizar</string>
     <string name="title_activity_detail">Detalhes</string>
 
